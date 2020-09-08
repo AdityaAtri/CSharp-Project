@@ -1,0 +1,9 @@
+/Users/adityaatri/Desktop/Training-DotNet/networkSpace/FirstLib/bin/Debug/netstandard2.0/FirstLib.deps.json
+/Users/adityaatri/Desktop/Training-DotNet/networkSpace/FirstLib/bin/Debug/netstandard2.0/FirstLib.dll
+/Users/adityaatri/Desktop/Training-DotNet/networkSpace/FirstLib/bin/Debug/netstandard2.0/FirstLib.pdb
+/Users/adityaatri/Desktop/Training-DotNet/networkSpace/FirstLib/obj/Debug/netstandard2.0/FirstLib.csprojAssemblyReference.cache
+/Users/adityaatri/Desktop/Training-DotNet/networkSpace/FirstLib/obj/Debug/netstandard2.0/FirstLib.AssemblyInfoInputs.cache
+/Users/adityaatri/Desktop/Training-DotNet/networkSpace/FirstLib/obj/Debug/netstandard2.0/FirstLib.AssemblyInfo.cs
+/Users/adityaatri/Desktop/Training-DotNet/networkSpace/FirstLib/obj/Debug/netstandard2.0/FirstLib.csproj.CoreCompileInputs.cache
+/Users/adityaatri/Desktop/Training-DotNet/networkSpace/FirstLib/obj/Debug/netstandard2.0/FirstLib.dll
+/Users/adityaatri/Desktop/Training-DotNet/networkSpace/FirstLib/obj/Debug/netstandard2.0/FirstLib.pdb
